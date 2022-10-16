@@ -1,10 +1,3 @@
-/*
-Source Code
-CashU - Settle debts with less.
-Name: Prabodh Wankhede
-HackerEarth IndiaHacks 2017 - FinTech
-*/
-
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
