@@ -1,3 +1,5 @@
+//Author: Amit Swami
+//Github: https://github.com/amitswami123/
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
